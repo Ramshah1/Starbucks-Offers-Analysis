@@ -50,7 +50,8 @@ three json files in the data folder.
 
 ## Results
 The findings of the analysis are discussed in the jupyter notebook as well as in
-a blog post [here]().
+a blog post [here](https://medium.com/@RamshahJahangir/analyzing-target-audience-for-starbucks-app-offers-59dedb7e6490).
 
 ## Licensing, Authors, and Acknowledgements
-A special thanks to Starbucks for making this data available to explore.
+A special thanks to Starbucks for making this data available to explore, and to
+Udacity for all the resources and help in completing this project.
